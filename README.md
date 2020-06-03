@@ -3,7 +3,7 @@
 ###  Start new project using this build:
 ```sh
 $ git clone https://github.com/SDen4/one-page-scroll.git
-$ cd webpacktemplate-scss-pug
+$ cd one-page-scroll
 $ npm i
 $ git init
 $ git remote set-url origin <link of new repo in github>
